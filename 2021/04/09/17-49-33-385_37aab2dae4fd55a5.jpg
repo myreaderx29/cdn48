@@ -1,0 +1,1343 @@
+<!doctype html>
+<html lang="ja" itemscope itemtype="http://schema.org/MedicalWebPage">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>がんの種類別情報｜がんを学ぶ ファイザー</title>
+<meta name="description" content="がん患者さんやご家族の方などに向けて、肺がんや乳がん、大腸がん、血液がん、希少がんなど、様々ながん（癌）について解説しています。がん（癌）の種類別に症状や治療法なども説明していますので参考にしてください。＜がんを学ぶ　ファイザー株式会社＞" />
+<meta name="keywords" content="がん,種類,癌,ガン" />
+<!--CSS-->
+<!--ここに<head>タグ内に記述するGTMタグを記載-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PL6MXQD');</script>
+<!-- End Google Tag Manager --><link rel="shortcut icon" type="image/x-icon" href="/common/img/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/common/css/footBalloon.css">
+<link rel="stylesheet" type="text/css" href="/common/css/responsive.css">
+<!--<link rel="stylesheet" type="text/css" href="/common/lib/qaPopUp/qaPopUp.css">-->
+<link rel="stylesheet" type="text/css" href="/common/lib/easySearch/easySearch.css">
+<!--SCRIPT-->
+<script type="text/javascript" src="/common/js/jquery.js"></script>
+<script type="text/javascript" src="/common/js/html5shiv.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/common/js/common.js"></script>
+<script type="text/javascript" src="/common/js/smoothScroll.js"></script>
+<script type="text/javascript" src="/common/js/jquery.heightLine.js"></script>
+<!--<script type="text/javascript" src="/common/lib/qaPopUp/qaPopUp.js"></script>-->
+<script type="text/javascript" src="/common/lib/easySearch/easySearch.js"></script>
+<script type="text/javascript" src="/urchin6/urchin.js"></script>
+<script type="text/javascript">urchinTracker();</script>
+<script type="text/javascript">
+$(window).load(function() {
+	$("#IndexBox dl.fixbox1").heightLine({ minWidth: 767, fontSizeCheck: true });
+	$("#IndexBox dl.fixbox2").heightLine({ minWidth: 767, fontSizeCheck: true });
+	$("#IndexBox dl.fixbox3").heightLine({ minWidth: 900, fontSizeCheck: true });
+	$("#IndexBox dl.fixbox4").heightLine({ minWidth: 767, fontSizeCheck: true });
+});
+</script>
+
+<style>
+#kind article div.comingSoonWrap p.comingSoon { font-size: 130%;}
+
+#IndexBox {padding-top: 0;background: none;border: none;border-width:0;	padding-bottom:5px;}
+#IndexBox dl {float: left;margin: 0 10px 15px 0;width: 210px;background:#fff;border: 1px solid #ddd;border-top: 0;box-sizing: border-box;}
+#IndexBox dt {font-weight: bold;margin:-4px;border-top: 1px solid #ddd;border-bottom: 1px dotted #ddd;}
+#IndexBox dt a {margin: 0 8px 0;padding: 0 0 4px 10px;}
+#IndexBox dt p {padding-top:0;margin: 10px 8px 10px;font-weight: normal;font-size: .94em;line-height: 1.5;color: #333;}
+#IndexBox #lung h2 {background-image: url(/common/img/icon_ribbon_pearl.png);}
+#IndexBox #breast h2 {background-image: url(/common/img/icon_ribbon_pink.png);}
+#IndexBox #colon h2 {background-image: url(/common/img/icon_ribbon_blue.png);}
+#IndexBox #aml h2 {background-image: url(/common/img/icon_ribbon_orange.png);}
+#IndexBox #cml h2 {background-image: url(/common/img/icon_ribbon_orange.png);}
+#IndexBox #all h2 {background-image: url(/common/img/icon_ribbon_orange.png);}
+#IndexBox #rcc h2 {background-image: url(/common/img/icon_ribbon_green.png);}
+#IndexBox #gist h2 {background-image: url(/common/img/icon_ribbon_yellow.png);}
+#IndexBox #pNET h2 {background-image: url(/common/img/icon_ribbon_zebra.png);}
+#IndexBox #skin h2 {background-image: url(/common/img/icon_ribbon_black.png);}
+#IndexBox h2 {font-size: 1.28em;padding: 0 4px 0 40px;background: 10px 15px no-repeat;background-image: none;border:none;height:76px;}
+#IndexBox dd { padding: 0 8px;margin:0; }
+#IndexBox dd ul { margin: 0 auto -1px; }
+#IndexBox dd li {font-size: .9em;padding: 0 0 0 7px;line-height: 1.2;border-bottom: 1px dotted #ddd;}
+#IndexBox dd ul > li::before {background:none}
+#IndexBox .lastItem { border: 0; }
+#IndexBox dl a {display: block;	padding: .9em 0;}
+
+.kind_link{display:none;}
+
+/* small display
+------------------------------*/
+@media only screen and (max-width: 767px) {
+	.causePage .boxLeft,.tit-qa-innerwrap{
+		margin-top:15px;
+	}
+	#IndexBox .inner { float: none; margin: 0 2.5%; width: auto; }
+	#IndexBox dl,
+	#IndexBox .banner, .banner li { float: none; margin: 10px auto; width: auto; }
+	#IndexBox .inner .banner img { width: 100%; }
+
+	/*sp_aunker*/
+	#lung_ak,#breast_ak,#colon_ak,#aml_ak,#cml_ak,#all_ak,#rcc_ak,#gist_ak,#pNET_ak,#skin_ak {margin-top:-68px;padding-top:68px;}
+	.kind_link{display:block;padding-top:0;}
+	.kind_link ul.kind_link_list {padding:0;}
+	.kind_link ul.kind_link_list li {width:100%;display: table;float:left;padding:2px 0 6px 0;margin:0 9px 0 0;position:relative;}
+	.kind_link ul.kind_link_list li a {display: table-cell;vertical-align: middle;position: relative;background: #eee;border: 1px solid #ddd;text-align:center;height:24px;padding: 5px 28px 5px 15px;line-height:1.4;}
+	.kind_link ul li.on a,.kind_link ul.kind_link_list li a:hover {background:#bbb;}
+	.kind_link ul.kind_link_list li:before{position: absolute;display: block;right: 10px;left: inherit;top: 0;bottom: 0;width: 16px;margin: auto;height: 17px;background: url(/common/img/arw_green_down.png) 0 center no-repeat;z-index: 100;}
+	.kind_link ul li.on:before,.kind_link ul.kind_link_list li:hover:before {background: url(/common/img/arw_gray_down.png) 0 center no-repeat;}
+	.kind_link ul.otherlink_list {padding:0;margin-bottom:20px;}
+	.kind_link ul.otherlink_list li {width:123px;display: table;float:left;padding:2px 0 2px 0;margin:0 5px 0 0;position:relative;}
+	.kind_link ul.otherlink_list li:nth-child(5n) {margin-right:0;}
+	.kind_link ul.otherlink_list li a {display: table-cell;vertical-align: middle;position: relative;background: #f9f7e8;border: 1px solid #ddd;text-align: center;height: 40px;padding: 5px 28px 5px 15px;line-height: 1.4;}
+	.kind_link ul.otherlink_list li a:hover {background:#eaeaea;}
+	.kind_link ul.otherlink_list li:before {position: absolute;content: "";display: block;right: 10px;left: inherit;top: 0;bottom: 0;width: 16px;margin: auto;height: 17px;background: url(/common/img/arw_green_down.png) 0 center no-repeat;z-index: 100;}
+	.kind_link ul.otherlink_list li:hover:before {background: url(/common/img/arw_gray_down.png) 0 center no-repeat;}
+}
+
+
+
+</style>
+</head>
+<body id="kind">
+<noscript id="noscript"><p>このコンテンツはJavaScriptをONにしてご覧ください。</p></noscript>
+<div class="spnone">
+<header role="banner" itemscope itemtype="https://schema.org/WPHeader" id="header" class="">
+<div class="wrap">
+<div class="inner clearfix">
+<p id="logo"><a href="/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_header_index');"><img src="/common/img/logo.gif" alt="がんを学ぶ ganclass.jp　ひとりのがんに、みんなの力を" width="169" height="50" /></a></p>
+<p id="logoOcg"><a href="https://www.pfizer.co.jp/pfizer/index.html" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_header_pfizer_index');"><img src="/common/img/logo_header_oncology.gif" alt="Pfizer Oncology" /></a></p>
+<form action="/result.php" method="get" target="_self" id="searchBlock" name="searchBlock">
+<!-- Begin Vivitto Search Form -->
+<p id="search">
+<input type="text" value="サイト内検索" name="query" onblur="if(this.value==''){this.form.reset()}" onfocus="this.value = '';" />
+<button name="submit" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_header_result');">検索</button>
+<input type="hidden" name="ie" value="utf-8" />
+<input type="hidden" name="id" value="ganclass" />
+</p>
+<!-- End Vivitto Search Form -->
+</form>
+<dl class="clearfix" id="fontSizeBtn">
+<dt>文字サイズ</dt>
+<dd>
+
+<ul>
+<li id="fontS"><a>小</a></li>
+<li id="fontM"><a class="current">中</a></li>
+<li id="fontL"><a>大</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="head-text spnone">がんの診療から治療までの情報を学ぶ</div><nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+<div class="inner">
+<ul id="globalNavi"><!--190225 headerL-->
+<li id="gnavi-confront"><a itemprop="url" href="/confront/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_confront_index');"><span itemprop="name">がんと<br class="spnone" />診断されたら</span></a>
+<div class="gnavSub">
+<ul class="gnavSubTbl">
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis');">不安を受け止める</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis');">診断結果の上手な受け止め方</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/state.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_state');">自分の病状を正しく知る</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/burden.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_burden');">心の負担を軽くするために</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/doctor.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_doctor');">自分の状態について知る</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/doctor.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_doctor');">主治医に質問してみましょう</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/second.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_second');">主治医以外にも話を聞く</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/info.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_info');">病気や治療方法を調べる</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/info.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_info');">情報の集め方</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/info02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_info02');">情報が正しいかを考える</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+</ul>
+</div>
+</li>
+
+<li id="gnavi-treatment"><a itemprop="url" href="/treatment/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_treatment_index');"><span itemprop="name">がんの治療</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/treatment/foundation/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_treatment_foundation');">がん治療の基礎を学ぼう</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/treatment/foundation/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_index');">がんってなに？</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic01');">納得できる治療方法を選ぶ</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic02');">がんの三大療法</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic04');">がんの薬物療法（抗がん剤治療）とは</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic03');">その他の療法（緩和ケア）</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/treatment/team/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_treatment_team');">みんなで取り組むがん治療</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/treatment/team/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_team');">みんなで取り組む「チーム医療」</a></li>
+            <li><a class="gnavSubLink" href="/treatment/team/role.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_team_role');">チーム医療に関わる専門家の役割</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/confront/diagnosis/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_patient');">がん治療の問題点と対処法</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/diagnosis/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_patient');">がん治療で直面するつらさ</a></li>
+            <li><a class="gnavSubLink" href="/confront/diagnosis/patient02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_patient02');">直面する問題に<br />向き合っていくためのヒント</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" target="_blank" href="/introduction/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_introduction');">がん患者入門<br />-入院・治療・手術のこと-</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" target="_blank" href="/introduction/start/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_start');">これからがんの治療を始めるあなたへ</a></li>
+            <li><a class="gnavSubLink" target="_blank" href="/introduction/hospitalization/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_hospitalization');">これからがんで入院するあなたへ</a></li>
+            <li><a class="gnavSubLink" target="_blank" href="/introduction/surgery/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_surgery');">入院・手術</a></li>
+            <li><a class="gnavSubLink" target="_blank" href="/introduction/ambulant/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_ambulant');">通院しながらがんの治療を続ける<br />あなたへ</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-treatment"><a itemprop="url" href="/confront/associate/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_side_effect_index');"><span itemprop="name">がんの副作用</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/confront/associate/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_associate_index');">がんとつきあう（がん治療の副作用）</a>
+        </dt>
+        <dd class="flx clearfix">
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/associate/fatigue.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_fatigue');">疲労</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/diarrhea.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_diarrhea');">下痢</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/astriction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_astriction');">便秘</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/vomit.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_vomit');">吐き気・嘔吐</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/hair.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_hair');">脱毛</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/lymph.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_lymph');">リンパ浮腫</a></li>
+          </ul>
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/associate/food.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_food');">栄養</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/oral.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_oral');">口腔衛生</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/hbp_cancer.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_hbp');">高血圧</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/skin.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_skin');">皮膚障害</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/marrow.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_marrow');">骨髄抑制</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-support"><a itemprop="url" href="/support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_medical_cost_index');"><span itemprop="name">治療費と生活の<br class="spnone" />支援制度</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_koutekiseido40-69-02');">がん患者向け公的サポートガイド</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">年齢別公的サポートガイド</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age_under17.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido17');">17歳以下が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age18-39.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido18-39');">18歳～39歳が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido40-69');">40歳～69歳が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age_over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido70');">70歳以上が利用できる公的制度</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/column/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_column');">仕事も治療もあきらめないために</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/column/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_column');">治療も仕事もあきらめないために<br />～社会保障制度の活用術～</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_medical-cost');">治療費を支援する制度</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">高額療養費制度について</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost');">病気になると、どんなお金がかかるの？</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/hight-cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_hight-cost');">高額療養費制度とは</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_over70');">70歳以上の方の医療費</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/medical_bills.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_medical_bill');">高額療養費の支給申請手続き</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/rule.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_rule');">高額療養費制度　適用ルール</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/method.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_method');">高額療養費の計算例</a></li>
+          </ul>
+        </dd>
+        <dd>
+          <p class="gnavSubLabel">医療費控除について</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/medical-cost/deduction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_deduction');">医療費控除</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_protection_03');">生活への支援制度</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">収入に不安があるとき</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_03');">傷病手当金</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_04');">障害年金</a></li>
+          </ul>
+        </dd>
+        <dd>
+          <p class="gnavSubLabel">生活や身体に支障があるとき</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/protection/05.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_05');">介護保険制度</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection');">介護休業・介護休暇</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_02');">介護休業給付金</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-support"><a itemprop="url" href="/support/gan_support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_support_index');"><span itemprop="name">がん治療の<br class="spnone" />サポート</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/homecare/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_homecare');">通院治療と在宅療養</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/homecare/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_index');">通院治療と在宅療養</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/rehabilitation.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_rehabilitation');">在宅での治療や看護、<br />リハビリなどの医療サービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/visiting.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_visiting');">薬剤師、歯科医師・歯科衛生士、<br />管理栄養士、リハビリ専門職による<br />訪問医療サービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/other.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_other');">在宅での療養生活や通院その他を<br />サポートするサービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/nurturing.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_nurturing');">子育てをサポートするサービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_cost');">在宅医療にかかる費用</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/family/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_family');">家族のサポート</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/family/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_patient');">家族ができるサポート</a></li>
+            <li><a class="gnavSubLink" href="/family/dialog.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_dialog');">気をつけたい言葉、かけてあげたい言葉</a></li>
+            <li><a class="gnavSubLink" href="/family/partner.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_partner');">家族は「第二の患者」</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/recipe/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_recipe');">がん患者さんのためのレシピ集</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/recipe/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe');">レシピを探す</a></li>
+          </ul>
+        </dd>
+        <dd class="flx clearfix">
+          <ul>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e9%a3%9f" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_staple');">主食</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e5%89%af%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_sub');">副菜</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e3%81%8a%e8%8f%93%e5%ad%90%e3%83%bb%e3%83%87%e3%82%b6%e3%83%bc%e3%83%88" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_sweets');">お菓子・デザート</a></li>
+          </ul>
+          <ul>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_main');">主菜</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e6%b1%81%e7%89%a9%e3%83%bb%e3%82%b9%e3%83%bc%e3%83%97" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_soup');">汁物・スープ</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e9%a3%b2%e3%81%bf%e7%89%a9" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_drink');">飲み物</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/qa/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_qa');">がん患者さんのお悩み相談室</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/qa/qa_family01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_family');">がんと家族</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa_work01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_work');">がんと仕事</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa_money01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_money');">がんとお金</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_life');">がんと生活（アピアランス）</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-kind"><a itemprop="url" href="/kind/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_kind_index');"><span itemprop="name">がんの種類別情報</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <ul>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/lung/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_lung');">肺がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/colon/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_colon');">大腸がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/cml/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_cml');">慢性骨髄性白血病（CML）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/rcc/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_rcc');">RCC（腎細胞がん）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/pNET/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_pNET');">膵神経内分泌腫瘍（panNET）</a></li>
+      </ul>
+    </li>
+    <li class="gnavSubTblItem">
+      <ul>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/breast/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_breast');">乳がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/aml/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_aml');">急性骨髄性白血病（AML）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/all/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_all');">急性リンパ性白血病（ALL）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/gist/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_gist');">GIST（消化管間質腫瘍）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/skin/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_skin');">皮膚がん</a></li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<!--wrap-->
+
+<!-----------↓↓↓scroll nav↓↓↓----------->
+<nav id="ber">
+<div class="inner">
+<ul id="globalNavi">
+<li id="gnavi-confront"><a itemprop="url" href="/confront/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_confront_index');"><span itemprop="name">がんと<br class="spnone" />診断されたら</span></a>
+<div class="gnavSub">
+<ul class="gnavSubTbl">
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis');">不安を受け止める</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis');">診断結果の上手な受け止め方</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/state.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_state');">自分の病状を正しく知る</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/burden.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_burden');">心の負担を軽くするために</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/doctor.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_doctor');">自分の状態について知る</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/doctor.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_doctor');">主治医に質問してみましょう</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/second.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_second');">主治医以外にも話を聞く</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+  <li class="gnavSubTblItem">
+    <dl class="gnavSubLinkBox">
+      <dt>
+        <a class="gnavSubLinkHead" href="/confront/diagnosis/info.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_info');">病気や治療方法を調べる</a>
+      </dt>
+      <dd>
+        <ul>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/info.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_info');">情報の集め方</a></li>
+          <li><a class="gnavSubLink" href="/confront/diagnosis/info02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_info02');">情報が正しいかを考える</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+</ul>
+</div>
+</li>
+
+<li id="gnavi-treatment"><a itemprop="url" href="/treatment/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_treatment_index');"><span itemprop="name">がんの治療</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/treatment/foundation/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_treatment_foundation');">がん治療の基礎を学ぼう</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/treatment/foundation/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_index');">がんってなに？</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic01');">納得できる治療方法を選ぶ</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic02');">がんの三大療法</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic04');">がんの薬物療法（抗がん剤治療）とは</a></li>
+            <li><a class="gnavSubLink" href="/treatment/foundation/basic03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_foundation_basic03');">その他の療法（緩和ケア）</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/treatment/team/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_treatment_team');">みんなで取り組むがん治療</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/treatment/team/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_team');">みんなで取り組む「チーム医療」</a></li>
+            <li><a class="gnavSubLink" href="/treatment/team/role.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_treatment_team_role');">チーム医療に関わる専門家の役割</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/confront/diagnosis/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_diagnosis_patient');">がん治療の問題点と対処法</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/diagnosis/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_patient');">がん治療で直面するつらさ</a></li>
+            <li><a class="gnavSubLink" href="/confront/diagnosis/patient02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_diagnosis_patient02');">直面する問題に<br />向き合っていくためのヒント</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/introduction/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_introduction');">がん患者入門<br />-入院・治療・手術のこと-</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/introduction/start/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_start');">これからがんの治療を始めるあなたへ</a></li>
+            <li><a class="gnavSubLink" href="/introduction/hospitalization/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_hospitalization');">これからがんで入院するあなたへ</a></li>
+            <li><a class="gnavSubLink" href="/introduction/surgery/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_surgery');">入院・手術</a></li>
+            <li><a class="gnavSubLink" href="/introduction/ambulant/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_introduction_ambulant');">通院しながらがんの治療を続ける<br />あなたへ</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-treatment"><a itemprop="url" href="/confront/associate/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_side_effect_index');"><span itemprop="name">がんの副作用</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/confront/associate/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_confront_associate_index');">がんとつきあう（がん治療の副作用）</a>
+        </dt>
+        <dd class="flx clearfix">
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/associate/fatigue.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_fatigue');">疲労</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/diarrhea.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_diarrhea');">下痢</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/astriction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_astriction');">便秘</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/vomit.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_vomit');">吐き気・嘔吐</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/hair.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_hair');">脱毛</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/lymph.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_lymph');">リンパ浮腫</a></li>
+          </ul>
+          <ul>
+            <li><a class="gnavSubLink" href="/confront/associate/food.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_food');">栄養</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/oral.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_oral');">口腔衛生</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/hbp_cancer.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_hbp');">高血圧</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/skin.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_skin');">皮膚障害</a></li>
+            <li><a class="gnavSubLink" href="/confront/associate/marrow.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_confront_associate_marrow');">骨髄抑制</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-support"><a itemprop="url" href="/support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_medical_cost_index');"><span itemprop="name">治療費と生活の<br class="spnone" />支援制度</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_koutekiseido40-69-02');">がん患者向け公的サポートガイド</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">年齢別公的サポートガイド</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age_under17.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido17');">17歳以下が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age18-39.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido18-39');">18歳～39歳が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido40-69');">40歳～69歳が利用できる公的制度</a></li>
+            <li><a class="gnavSubLink" href="/support/koutekiseido/age_over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_koutekiseido70');">70歳以上が利用できる公的制度</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/column/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_column');">仕事も治療もあきらめないために</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/column/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_column');">治療も仕事もあきらめないために<br />～社会保障制度の活用術～</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_medical-cost');">治療費を支援する制度</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">高額療養費制度について</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost');">病気になると、どんなお金がかかるの？</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/hight-cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_hight-cost');">高額療養費制度とは</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_over70');">70歳以上の方の医療費</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/medical_bills.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_medical_bill');">高額療養費の支給申請手続き</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/rule.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_rule');">高額療養費制度　適用ルール</a></li>
+            <li><a class="gnavSubLink" href="/support/medical-cost/method.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_method');">高額療養費の計算例</a></li>
+          </ul>
+        </dd>
+        <dd>
+          <p class="gnavSubLabel">医療費控除について</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/medical-cost/deduction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_medical-cost_deduction');">医療費控除</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_protection_03');">生活への支援制度</a>
+        </dt>
+        <dd>
+          <p class="gnavSubLabel">収入に不安があるとき</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_03');">傷病手当金</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_04');">障害年金</a></li>
+          </ul>
+        </dd>
+        <dd>
+          <p class="gnavSubLabel">生活や身体に支障があるとき</p>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/protection/05.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_05');">介護保険制度</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection');">介護休業・介護休暇</a></li>
+            <li><a class="gnavSubLink" href="/support/protection/02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_protection_02');">介護休業給付金</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-support"><a itemprop="url" href="/support/gan_support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_support_index');"><span itemprop="name">がん治療の<br class="spnone" />サポート</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/support/homecare/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_support_homecare');">通院治療と在宅療養</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/support/homecare/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_index');">通院治療と在宅療養</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/rehabilitation.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_rehabilitation');">在宅での治療や看護、<br />リハビリなどの医療サービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/visiting.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_visiting');">薬剤師、歯科衛生士、管理栄養士、<br />理学療法士などによる訪問医療サービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/other.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_other');">在宅での療養生活や通院その他を<br />サポートするサービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/nurturing.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_nurturing');">子育てをサポートするサービス</a></li>
+            <li><a class="gnavSubLink" href="/support/homecare/cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_support_homecare_cost');">在宅医療にかかる費用</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/family/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_family');">家族のサポート</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/family/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_patient');">家族ができるサポート</a></li>
+            <li><a class="gnavSubLink" href="/family/dialog.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_dialog');">気をつけたい言葉、かけてあげたい言葉</a></li>
+            <li><a class="gnavSubLink" href="/family/partner.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_family_partner');">家族は「第二の患者」</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/recipe/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_recipe');">がん患者さんのためのレシピ集</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/recipe/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe');">レシピを探す</a></li>
+          </ul>
+        </dd>
+        <dd class="flx clearfix">
+          <ul>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e9%a3%9f" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_staple');">主食</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e5%89%af%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_sub');">副菜</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e3%81%8a%e8%8f%93%e5%ad%90%e3%83%bb%e3%83%87%e3%82%b6%e3%83%bc%e3%83%88" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_sweets');">お菓子・デザート</a></li>
+          </ul>
+          <ul>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_main');">主菜</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e6%b1%81%e7%89%a9%e3%83%bb%e3%82%b9%e3%83%bc%e3%83%97" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_soup');">汁物・スープ</a></li>
+            <li><a class="gnavSubLink" href="https://scope.ganclass.jp/recipe/?genre=%e9%a3%b2%e3%81%bf%e7%89%a9" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_recipe_drink');">飲み物</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+    <li class="gnavSubTblItem">
+      <dl class="gnavSubLinkBox">
+        <dt>
+          <a class="gnavSubLinkHead" href="/qa/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_qa');">がん患者さんのお悩み相談室</a>
+        </dt>
+        <dd>
+          <ul>
+            <li><a class="gnavSubLink" href="/qa/qa_family01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_family');">がんと家族</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa_work01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_work');">がんと仕事</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa_money01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_money');">がんとお金</a></li>
+            <li><a class="gnavSubLink" href="/qa/qa01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_s_qa_life');">がんと生活（アピアランス）</a></li>
+          </ul>
+        </dd>
+      </dl>
+    </li>
+  </ul>
+  </div>
+</li>
+
+<li id="gnavi-kind"><a itemprop="url" href="/kind/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_gnavi_kind_index');"><span itemprop="name">がんの種類別情報</span></a>
+  <div class="gnavSub">
+  <ul class="gnavSubTbl">
+    <li class="gnavSubTblItem">
+      <ul>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/lung/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_lung');">肺がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/colon/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_colon');">大腸がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/cml/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_cml');">慢性骨髄性白血病（CML）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/rcc/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_rcc');">RCC（腎細胞がん）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/pNET/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_pNET');">膵神経内分泌腫瘍（pNET）</a></li>
+      </ul>
+    </li>
+    <li class="gnavSubTblItem">
+      <ul>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/breast/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_breast');">乳がん</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/aml/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_aml');">急性骨髄性白血病（AML）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/all/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_all');">急性リンパ性白血病（ALL）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/gist/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_gist');">GIST（消化管間質腫瘍）</a></li>
+        <li><a class="gnavSubLinkHead" target="_blank" href="/kind/skin/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_drop_kind_skin');">皮膚がん</a></li>
+      </ul>
+    </li>
+  </ul>
+  </div>
+</li>
+</ul>
+</div>
+</nav>
+<script type="text/javascript">
+$(function() {
+    var nav = $('nav#ber');
+    //表示位置
+    var navTop = nav.offset().top+200;
+    //ナビゲーションの高さ
+    var navHeight = nav.height()+80;
+    var showFlag = false;
+    nav.css('top', -navHeight+'px');
+    //ナビゲーションの位置まできたら表示
+    $(window).scroll(function () {
+        var winTop = $(this).scrollTop();
+        if (winTop >= navTop) {
+            if (showFlag == false) {
+                showFlag = true;
+                nav
+                    .addClass('fixed')
+                    .stop().animate({'top' : '0px'}, 200);
+            }
+        } else if (winTop <= navTop) {
+            if (showFlag) {
+                showFlag = false;
+                nav.stop().animate({'top' : -navHeight+'px'}, 200, function(){
+                    nav.removeClass('fixed');
+                });
+            }
+        }
+    });
+});
+</script>
+<!-----------↑↑↑scroll nav↑↑↑----------->
+</header>
+
+<script type="text/javascript">
+$(function() {
+	fontSizeSwitcher();
+});
+</script>
+</div>
+
+<div class="pcnone">
+<link rel="stylesheet" type="text/css" href="/common/css/sp_nav.css">
+<header role="banner" itemscope itemtype="https://schema.org/WPHeader" id="header" class="clearfix">
+  <div class="wrap">
+    <div class="inner clearfix">
+       <p id="logo">
+         <a href="/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_header_index');"><img src="/common/img/logo.gif" alt="がんを学ぶ ganclass.jp　ひとりのがんに、みんなの力を" width="169" height="50" /></a>
+       </p>
+       <p id="logoOcg">
+         <a href="https://www.pfizer.co.jp/pfizer/index.html" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_header_pfizer_index');"><img src="/common/img/logo_header_oncology.gif" alt="Pfizer Oncology" /></a>
+       </p>
+    </div>
+
+<p class="btn_hamburger">
+    <a href="#" onclick="">
+        <span></span>
+        <span></span>
+        <span></span>
+    </a>メニュー
+</p>
+<section id="spNav2" class="spNav spNav2">
+    <ul class="spNav_list">
+
+<!-- //がんを学ぶ共通 -->
+        <li>
+            <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_confront_index_trigger');">がんと診断されたら</a></div>
+              <div class="target">
+                <div class="in_index"><a href="/confront/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_confront_index');">がんと診断されたら 目次</a></div>
+                  <ul>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_diagnosis_trigger');">不安を受け止める</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/confront/diagnosis/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis');">診断結果の上手な受け止め方</a></li>
+                                <li><a href="/confront/diagnosis/state.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_state');">自分の病状を正しく知る</a></li>
+                                <li><a href="/confront/diagnosis/burden.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_burden');">心の負担を軽くするために</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_diagnosis_doctor_trigger');">自分の状態について知る</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/confront/diagnosis/doctor.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_doctor');">主治医に質問してみましょう</a></li>
+                                <li><a href="/confront/diagnosis/second.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_second');">主治医以外にも話を聞く</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_diagnosis_info_trigger');">病気や治療方法を調べる</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/confront/diagnosis/info.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_info');">情報の集め方</a></li>
+                                <li><a href="/confront/diagnosis/info02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_info02');">情報が正しいかを考える</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </li>
+ 
+        <li>
+            <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_treatment_index_trigger');">がんの治療</a></div>
+              <div class="target">
+                <div class="in_index"><a href="/treatment/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_treatment_index');">がんの治療 目次</a></div>
+                  <ul>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_treatment_foundation_trigger');">がん治療の基礎を学ぼう</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/treatment/foundation/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_foundation_index');">がんってなに？</a></li>
+                                <li><a href="/treatment/foundation/basic01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_foundation_basic01');">納得できる治療方法を選ぶ</a></li>
+                                <li><a href="/treatment/foundation/basic02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_foundation_basic02');">がんの三大療法</a></li>
+                                <li><a href="/treatment/foundation/basic04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_foundation_basic04');">がん薬物療法とは<br>（抗がん剤、分子標的薬など）</a></li>
+                                <li><a href="/treatment/foundation/basic03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_foundation_basic03');">その他の療法（緩和ケア）</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_treatment_team_trigger');">みんなで取り組むがん治療</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/treatment/team/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_team');">みんなで取り組む「チーム医療」</a></li>
+                                <li><a href="/treatment/team/role.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_treatment_team_role');">チーム医療に関わる専門家の役割</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_diagnosis_patient_trigger');">がん治療の問題点と対処法</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/confront/diagnosis/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_patient');">がん治療で直面するつらさ</a></li>
+                                <li><a href="/confront/diagnosis/patient02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_diagnosis_patient02');">直面する問題に向き合っていく<br>ためのヒント</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_introduction_trigger');">がん患者入門<br>-入院・治療・手術のこと-</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/introduction/start/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_introduction_start');">これからがんの治療を始めるあなたへ</a></li>
+                                <li><a href="/introduction/hospitalization/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_introduction_hospitalization');">これからがんで入院するあなたへ</a></li>
+                                <li><a href="/introduction/surgery/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_introduction_surgery');">入院・手術</a></li>
+                                <li><a href="/introduction/ambulant/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_introduction_ambulant');">通院しながらがんの治療を<br>続けるあなたへ</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </li>
+ 
+        <li>
+            <div class="trigger"><a href="/confront/associate/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_side_effect_index_trigger');">がんの副作用</a></div>
+              <div class="target">
+                 <div class="in_index"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_associate_index');">がんの副作用 目次</a></div>
+                    <ul class="linkbar">
+                      <li><a href="/confront/associate/fatigue.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_fatigue');">疲労</a></li>
+                      <li><a href="/confront/associate/food.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_food');">栄養</a></li>
+                      <li><a href="/confront/associate/diarrhea.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_diarrhea');">下痢</a></li>
+                      <li><a href="/confront/associate/oral.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_oral');">口腔衛生</a></li>
+                      <li><a href="/confront/associate/astriction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_astriction');">便秘</a></li>
+                      <li><a href="/confront/associate/hbp_cancer.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_hbp');">高血圧</a></li>
+                      <li><a href="/confront/associate/vomit.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_vomit');">吐き気・嘔吐</a></li>
+                      <li><a href="/confront/associate/skin.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_skin');">皮膚障害</a></li>
+                      <li><a href="/confront/associate/hair.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_hair');">脱毛</a></li>
+                      <li><a href="/confront/associate/marrow.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_marrow');">骨髄抑制</a></li>
+                      <li><a href="/confront/associate/lymph.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_confront_associate_lymph');">リンパ浮腫</a></li>
+                    </ul>
+               </div>
+        </li>
+ 
+        <li>
+            <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_medical_cost_index_trigger');">治療費と生活の支援制度</a></div>
+              <div class="target">
+                 <div class="in_index"><a href="/support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_confront_associate_index');">治療費と生活の支援制度 目次</a></div>
+                  <ul>
+                    <li>
+                      <div class="in_index"><a href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_support_koutekiseido40-69-02_trigger');">がん患者向け公的サポートガイド</a></div>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_age_trigger');">年齢別公的サポートガイド</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/koutekiseido/age_under17.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_koutekiseido17');">17歳以下が利用できる公的制度</a></li>
+                                <li><a href="/support/koutekiseido/age18-39.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_koutekiseido18-39');">18歳～39歳が利用できる公的制度</a></li>
+                                <li><a href="/support/koutekiseido/age40-69.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_koutekiseido40-69');">40歳～69歳が利用できる公的制度</a></li>
+                                <li><a href="/support/koutekiseido/age_over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_koutekiseido70');">70歳以上が利用できる公的制度</a></li>
+                            </ul>
+                          </div>
+                    </li>
+                    <li>
+                      <div class="in_index"><a href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_support_medical-cost');">治療費を支援する制度</a></div>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_trigger');">高額療養費制度について</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/medical-cost/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost');">病気になると、どんなお金がかかるの？</a></li>
+                                <li><a href="/support/medical-cost/hight-cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_hight-cost');">高額療養費制度とは</a></li>
+                                <li><a href="/support/medical-cost/over70.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_over70');">70歳以上の方の医療費</a></li>
+                                <li><a href="/support/medical-cost/medical_bills.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_medical_bill');">高額療養費の支給申請手続き</a></li>
+                                <li><a href="/support/medical-cost/rule.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_rule');">高額療養費制度　適用ルール</a></li>
+                                <li><a href="/support/medical-cost/method.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_method');">高額療養費の計算例</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_deduction_trigger');">医療費控除について</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/medical-cost/deduction.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_medical-cost_deduction');">医療費控除</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                      <div class="in_index"><a href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_support_protection_03');">生活への支援制度</a></div>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection_trigger');">収入に不安がある時</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/protection/03.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection_03');">傷病手当金</a></li>
+                                <li><a href="/support/protection/04.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection_04');">障害年金</a></li>
+                            </ul>
+                        </div>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_trouble_trigger');">生活や身体に支障があるとき</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/protection/05.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection_05');">介護保険制度</a></li>
+                                <li><a href="/support/protection/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection');">介護休業・介護休暇</a></li>
+                                <li><a href="/support/protection/02.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_protection_02');">介護休業給付金</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_column_trigger');">治療も仕事もあきらめないために<br>～社会保障制度の活用術～</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/column/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_column_01');">第1回 がん患者さんにぜひ利用<br>して欲しい「障害年金」</a></li>
+                                <li><a href="/support/column/koushoujutsu.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_column_02');">第2回 障害年金を受けるための交渉術</a></li>
+                                <li><a href="/support/column/seikatsuhogo.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_column_03');">第3回 社会復帰をするためにも<br>公的制度を上手に活用しよう</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </li>
+
+        <li>
+            <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_support_index_trigger');">がん治療のサポート</a></div>
+              <div class="target">
+                 <div class="in_index"><a href="/support/gan_support/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_support_index');">がん治療のサポート 目次</a></div>
+                  <ul>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_support_homecare_trigger');">通院治療と在宅療養</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/support/homecare/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_index');">通院治療と在宅療養</a></li>
+                                <li><a href="/support/homecare/rehabilitation.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_rehabilitation');">在宅での治療や看護、<br>リハビリなどの医療サービス</a></li>
+                                <li><a href="/support/homecare/visiting.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_visiting');">薬剤師、歯科医師・歯科衛生士、<br />管理栄養士、リハビリ専門職による<br />訪問医療サービス</a></li>
+                                <li><a href="/support/homecare/other.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_other');">在宅での療養生活や通院その他を<br>サポートするサービス</a></li>
+                                <li><a href="/support/homecare/nurturing.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_nurturing');">子育てをサポートするサービス</a></li>
+                                <li><a href="/support/homecare/cost.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_support_homecare_cost');">在宅医療にかかる費用</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_family_trigger');">家族のサポート</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/family/patient.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_family_patient');">家族ができるサポート</a></li>
+                                <li><a href="/family/dialog.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_family_dialog');">気をつけたい言葉、かけてあげたい言葉</a></li>
+                                <li><a href="/family/partner.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_family_partner');">家族は「第二の患者」</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_recipe_trigger');">がん患者さんのためのレシピ集</a></div>
+                          <div class="target">
+                            <ul class="linkbar">
+                                <li><a href="/recipe/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe');">レシピを探す</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e9%a3%9f" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_staple');">主食</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e4%b8%bb%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_main');">主菜</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e5%89%af%e8%8f%9c" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_sub');">副菜</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e6%b1%81%e7%89%a9%e3%83%bb%e3%82%b9%e3%83%bc%e3%83%97" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_soup');">汁物・スープ</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e3%81%8a%e8%8f%93%e5%ad%90%e3%83%bb%e3%83%87%e3%82%b6%e3%83%bc%e3%83%88" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_sweets');">お菓子・デザート</a></li>
+                                <li><a href="https://scope.ganclass.jp/recipe/?genre=%e9%a3%b2%e3%81%bf%e7%89%a9" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_recipe_drink');">飲み物</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="trigger"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_qa_trigger');">がん患者さんのお悩み相談室</a></div>
+                          <div class="target">
+                           <div class="in_index"><a href="/qa/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_qa_index');">がん患者さんのお悩み相談室 目次</a></div>
+                            <ul class="linkbar">
+                                <li><a href="/qa/qa_family01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_qa_family');">がんと家族</a></li>
+                                <li><a href="/qa/qa_work01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_qa_work');">がんと仕事</a></li>
+                                <li><a href="/qa/qa_money01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_qa_money');">がんとお金</a></li>
+                                <li><a href="/qa/qa01.php" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_s_qa_life');">がんと生活（アピアランス）</a></
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li class="last-bottom">
+            <div class="trigger active"><a href="#" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_kind_index_trigger');">がんの種類別情報</a></div>
+            <div class="target" style="display: block;">
+                    <div class="in_index"><a href="/kind/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_gnavi_kind_index');">がんの種類別一覧</a></div>
+                            <ul class="linkbar">
+                                <li><a href="/kind/lung/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_lung');">肺がん</a></li>
+                                <li><a href="/kind/breast/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_breast');">乳がん</a></li>
+                                <li><a href="/kind/colon/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_colon');">大腸がん</a></li>
+                                <li><a href="/kind/aml/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_aml');">急性骨髄性白血病（AML）</a></li>
+                                <li><a href="/kind/cml/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_cml');">慢性骨髄性白血病（CML）</a></li>
+                                <li><a href="/kind/all/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_all');">急性リンパ性白血病（ALL）</a></li>
+                                <li><a href="/kind/rcc/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_rcc');">RCC（腎細胞がん）</a></li>
+                                <li><a href="/kind/gist/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_gist');">GIST（消化管間質腫瘍）</a></li>
+                                <li><a href="/kind/pNET/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_pNET');">膵神経内分泌腫瘍（panNET）</a></li>
+                                <li><a href="/kind/skin/" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_Snav_drop_kind_skin');">皮膚がん</a></li>
+                            </ul>
+            </div>
+        </li><!-- がんを学ぶ共通// -->
+
+    </ul>
+</section>
+
+<!-- ここまで変更-->
+
+</div>
+<script type="text/javascript">
+$(function() {
+	fontSizeSwitcher();
+});
+</script>
+
+</header>
+</div><div class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><p id="topicPath">
+  <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">がんを学ぶ</span></a><meta itemprop="position" content="1"></span>
+  <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/kind/" class="disabled"><span itemprop="name">がんの種類別情報</span></a><meta itemprop="position" content="2"></span>
+</p></div>
+<div class="contents">
+<div class="inner clearfix">
+<article class="sitemap" role="main" itemprop="mainEntityOfPage">
+<h1 itemprop="headline">がんの種類別情報</h1>
+
+<p>肺がんや乳がん、血液がん、希少がんなどの様々ながんについて種類別に情報を提供しています。がんの種類別に原因・症状・治療などについて説明していますので参考にしてください。</p>
+
+	<div class="kind_link">
+	  <ul class="clearfix kind_link_list">
+	    <li><a href="#lung_ak">肺がん</a></li>
+	    <li><a href="#breast_ak">乳がん</a></li>
+	    <li><a href="#colon_ak">大腸がん</a></li>
+	    <li><a href="#aml_ak">急性骨髄性白血病（AML）</a></li>
+	    <li><a href="#cml_ak">慢性骨髄性白血病（CML）</a></li>
+	    <li><a href="#all_ak">急性リンパ性白血病（ALL）</a></li>
+	    <li><a href="#rcc_ak">RCC（腎細胞がん）</a></li>
+	    <li><a href="#gist_ak">GIST（消化管間質腫瘍）</a></li>
+	    <li><a href="#pNET_ak">膵神経内分泌腫瘍（panNET）</a></li>
+	    <li><a href="#skin_ak">皮膚がん</a></li>
+	  </ul>
+	</div>
+
+
+<div id="IndexBox">
+<div class="inner clearfix">
+
+<!-- 2 -->
+   <div id="aml_ak"></div>
+    <dl id="aml" class="fixbox2">
+       <dt><h2><a href="/kind/aml/" target="_blank">急性骨髄性白血病（AML）</a></h2><p>急性骨髄性白血病（AML）について、概要や原因、治療方法などを解説しています。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/aml/what.php" target="_blank">白血病ってどんな病気？</a></li>
+		<li><a href="/kind/aml/cause.php" target="_blank">急性骨髄性白血病（AML）の原因と診断</a></li>
+		<li><a href="/kind/aml/chemotherapy.php" target="_blank">治療方法 - 薬物療法</a></li>
+		<li><a href="/kind/aml/transplant.php" target="_blank">治療方法 - 造血幹細胞移植（骨髄移植、末梢血幹細胞移植、さい帯血移植）</a></li>
+		<li><a href="/kind/aml/sideeffects.php" target="_blank">化学療法の副作用</a></li>
+		<li><a href="/kind/aml/sideeffects02.php" target="_blank">分子標的療法の副作用</a></li>
+		<li class="lastItem"><a href="/kind/aml/face.php" target="_blank">急性骨髄性白血病（AML）と向き合う</a></li>
+	  </ul>
+	</dd>
+    </dl>
+   <div id="cml_ak"></div>
+    <dl id="cml" class="fixbox2">
+       <dt><h2><a href="/kind/cml/" target="_blank">慢性骨髄性白血病（CML）</a></h2><p>慢性骨髄性白血病（CML）について、概要や原因、治療方法などを解説しています。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/cml/what/" target="_blank">白血病ってどんな病気？</a></li>
+		<li><a href="/kind/cml/cause/" target="_blank">慢性骨髄性白血病（CML）の原因と診断</a></li>
+		<li><a href="/kind/cml/therapy/" target="_blank">治療法</a></li>
+		<li><a href="/kind/cml/side_effect/" target="_blank">分子標的薬の副作用</a></li>
+		<li class="lastItem"><a href="/kind/cml/face/" target="_blank">慢性骨髄性白血病（CML）と向き合う</a></li>
+	  </ul>
+	</dd>
+    </dl>
+   <div id="all_ak"></div>
+    <dl id="all" class="fixbox2">
+       <dt><h2><a href="/kind/all/" target="_blank">急性リンパ性白血病（ALL）</a></h2><p>急性リンパ性白血病（ALL）について、概要や原因、治療方法などを解説しています。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/all/what/" target="_blank">白血病ってどんな病気？</a></li>
+		<li><a href="/kind/all/cause/" target="_blank">急性リンパ性白血病（ALL）の原因と診断</a></li>
+		<li><a href="/kind/all/therapy/" target="_blank">治療方法 - 薬物療法</a></li>
+		<li><a href="/kind/all/hematopoietic/" target="_blank">治療方法 - 造血幹細胞移植</a></li>
+		<li><a href="/kind/all/side_effect/" target="_blank">化学療法の副作用</a></li>
+		<li><a href="/kind/all/side_effect02/" target="_blank">分子標的療法の副作用</a></li>
+		<li class="lastItem"><a href="/kind/all/face/" target="_blank">急性リンパ性白血病（ALL）と向き合う</a></li>
+	  </ul>
+	</dd>
+    </dl>
+
+<!-- 3 -->
+   <div id="colon_ak"></div>
+    <dl id="colon" class="fixbox3">
+       <dt><h2><a href="/kind/colon/" target="_blank">大腸がん</a></h2><p>大腸がんの基礎知識から、症状や検査の種類、主な治療法と副作用、治療後の経過観察などについて解説しています。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/colon/about.php" target="_blank">大腸がんの基礎知識</a></li>
+		<li><a href="/kind/colon/doubt.php" target="_blank">大腸がんの検査</a></li>
+		<li><a href="/kind/colon/stage.php" target="_blank">ステージ(病期)と治療方針</a></li>
+		<li><a href="/kind/colon/endoscopy.php" target="_blank">主な治療法と副作用</a></li>
+		<li class="lastItem"><a href="/kind/colon/progress.php" target="_blank">術後の経過観察と再発・転移</a></li>
+	  </ul>
+	</dd>
+    </dl>
+   <div id="rcc_ak"></div>
+    <dl id="rcc" class="fixbox3">
+       <dt><h2><a href="/kind/rcc/" target="_blank">RCC（腎細胞がん）</a></h2><p>成人の腎臓にできる悪性腫瘍 「RCC」について、概要や原因、治療方法などを解説しています。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/rcc/what.php" target="_blank">RCCとはどんな病気？</a></li>
+		<li><a href="/kind/rcc/find.php" target="_blank">RCCはどうやって見つかるの？</a></li>
+		<li class="lastItem"><a href="/kind/rcc/cure.php" target="_blank">RCCの治療法</a></li>
+	  </ul>
+	</dd>
+    </dl>
+   <div id="gist_ak"></div>
+    <dl id="gist" class="fixbox3">
+       <dt><h2><a href="/kind/gist/" target="_blank">GIST（消化管間質腫瘍）</a></h2><p>胃や腸（消化管）の壁に発生する腫瘍、「GIST」について、概要や原因、治療方法を解説しています。また病院検索も行えます。</p></dt>
+	<dd>
+	  <ul>
+		<li><a href="/kind/gist/know/what.php" target="_blank">GISTについて</a></li>
+		<li><a href="/kind/gist/faq/index.php#step1" target="_blank">GISTと診断されたら</a></li>
+		<li><a href="/kind/gist/faq/index.php#step2" target="_blank">GISTの治療をはじめたら</a></li>
+		<li class="lastItem"><a href="/kind/gist/words/index.php" target="_blank">GIST 関連用語集</a></li>
+	  </ul>
+	</dd>
+    </dl>
+
+<!-- 1 -->
+   <div id="lung_ak"></div>
+    <dl id="lung" class="fixbox1">
+       <dt><h2><a href="/kind/lung/">肺がん</a></h2>
+       <p>近年、患者数が増加している肺がんの原因や症状、診断方法、治療方法や、遺伝子と肺がんの関係について解説しています。</p></dt>
+	<dd>
+<div class="comingSoonWrap">
+<p class="comingSoon">Coming Soon</p>
+</div>
+	</dd>
+    </dl>
+   <div id="breast_ak"></div>
+    <dl id="breast" class="fixbox1">
+       <dt><h2><a href="/kind/breast/">乳がん</a></h2><p>乳がんの検診方法やセルフチェックの方法、また乳がんの症状や治療の流れについての情報を提供しています。</p></dt>
+	<dd>
+<div class="comingSoonWrap">
+<p class="comingSoon">Coming Soon</p>
+</div>
+    </dl>
+   <div id="skin_ak"></div>
+    <dl id="skin" class="fixbox1">
+       <dt><h2><a href="/kind/skin/">皮膚がん</a></h2><p>皮膚がんの原因や種類、症状、とりわけ希少な皮膚がんのひとつであるメルケル細胞がんについての情報を掲載しています。</p></dt>
+	<dd>
+<div class="comingSoonWrap">
+<p class="comingSoon">Coming Soon</p>
+</div>
+	</dd>
+    </dl>
+
+<!-- 4 -->
+   <div id="pNET_ak"></div>
+    <dl id="pNET" class="fixbox4">
+       <dt><h2><a href="/kind/pNET/">膵神経内分泌腫瘍（panNET）</a></h2><p>膵臓にできる腫瘍の中でも1～2%と言われる膵神経内分泌腫瘍について、病態・治療法など概要をご紹介します。</p></dt>
+	<dd>
+<div class="comingSoonWrap">
+<p class="comingSoon">Coming Soon</p>
+</div>
+	</dd>
+    </dl>
+
+
+    <dl style="border:none;"></dl><dl style="border:none;"></dl>
+
+
+</div>
+</div>
+<!-- /#IndexBox -->
+
+</article>
+
+<div class="sub">
+<nav>
+<ul id="localNavi">
+<li><a href="/kind/" >がんの種類別情報</a>
+
+<ul>
+  <li><a href="/kind/lung/" target="_blank">肺がん</a></li>
+  <li><a href="/kind/breast/" target="_blank">乳がん</a></li>
+  <li><a href="/kind/colon/" target="_blank">大腸がん</a></li>
+  <li><a href="/kind/aml/" target="_blank">急性骨髄性白血病（AML）</a></li>
+  <li><a href="/kind/cml/" target="_blank">慢性骨髄性白血病（CML）</a></li>
+  <li><a href="/kind/all/" target="_blank">急性リンパ性白血病（ALL）</a></li>
+  <li><a href="/kind/rcc/" target="_blank">RCC（腎細胞がん）</a></li>
+  <li><a href="/kind/gist/" target="_blank">GIST（消化管間質腫瘍）</a></li>
+  <li><a href="/kind/pNET/" target="_blank">膵神経内分泌腫瘍（panNET）</a></li>
+  <li><a href="/kind/skin/" target="_blank">皮膚がん</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+
+<ul class="banner">
+<li><a href="/qa/"><img src="/common/img/local_bnr_qa.png" alt="がん患者さんのお悩み相談室" class="" /></a></li>
+<li><a href="/introduction/" target="_blank"><img src="/common/img/local_bnr_introduction.png" alt="がん患者入門" class=""/></a></li>
+</ul>
+<!-- / .side --></div>
+
+</div>
+</div>
+
+<div class="pagetop">
+<p><a href="#header">ページの先頭へ戻る</a></p>
+<!-- /.pagetop --></div>
+
+<div class="pagetop">
+<p><a href="#header">ページの先頭へ戻る</a></p>
+<!-- /.pagetop --></div>
+
+<footer id="footer" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+<div class="inner">
+<p>本サイトに掲載された健康情報は啓発を目的としたものであり、医師等の医療関係者に対する相談に代わるものではありません。<br>
+患者さんの治療に関しては、個々の特性を考慮し医師等の医療関係者と相談の上決定してください。</p>
+
+<ul class="footerLink">
+<li><a href="/sitemap/" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_footer_sitemap');">サイトマップ</a></li>
+<li><a href="https://www.pfizer.co.jp/pfizer/terms/index.html" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_footer_pfizer_terms_index');">Terms of Use</a></li>
+<li><a href="https://www.pfizer.co.jp/pfizer/privacy/index.html" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_footer_pfizer_privacy_index');">プライバシーポリシー</a></li>
+<li><a href="https://www.pfizer.co.jp/pfizer/copyright/index.html" target="_blank" onclick="__utmTrackEvent('TOPLink','Click','LinkTop_footer_pfizer_copyright_index');">Copyright</a></li>
+</ul>
+<p class="copyRight">Copyright &copy; 2012-2021 Pfizer Japan Inc., All right reserved.</p>
+</div>
+</footer>
+<!--
+<script src="/common/js/scrollreveal.min.js"></script>
+<script src="/common/js/scroll.js"></script>-->
+
+<script src="/common/js/scripts.js" charset="utf-8"></script>
+<!--ここに</body>タグ上に記述するGTMタグを記載-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL6MXQD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></body>
+</html>
